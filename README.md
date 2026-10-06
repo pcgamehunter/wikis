@@ -1,0 +1,3 @@
+# Wikis
+
+Personal repository for game notes, guides, maps and more...
