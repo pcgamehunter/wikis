@@ -1,5 +1,8 @@
 # Vampire the Masquerade: Swansong
 
+> [!CAUTION]
+> Using latex syntax for coloring too much, causing the GitHub renderer to hit it's limit. Must consolidate some or use a different system.
+
 ## Notes
 - So **Presence** and **Dominate** are basically useless. For some reason there are like 5 dialogue options in the game, many of them Rank 1 and with forced failure.
 	- Appendix: Presence 2 was seen in Emem's Anarch missions.
